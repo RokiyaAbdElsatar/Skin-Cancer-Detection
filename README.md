@@ -1,9 +1,11 @@
 # Mobile Skin Analyzer - Lightweight CNN for Skin Cancer Detection
 
-<img width="747" height="1044" alt="Screenshot 2026-04-28 191003" src="https://github.com/user-attachments/assets/c8f14f11-a676-4599-9068-2def17f544ee" />
+<div align="center">
+<img width="45%" alt="MALIGNANT Output" src="https://github.com/user-attachments/assets/c8f14f11-a676-4599-9068-2def17f544ee" />
 
-<img width="748" height="1034" alt="Screenshot 2026-04-28 190447" src="https://github.com/user-attachments/assets/a1bdf8d2-0858-4044-9339-95d80000ca64" />
+<img width="45%" alt="BENIGN Output" src="https://github.com/user-attachments/assets/a1bdf8d2-0858-4044-9339-95d80000ca64" />
 
+</div>
 ## Project Overview
 
 This project aims to build a **lightweight CNN model** for on-device/mobile skin cancer detection. The goal is to achieve real-time skin lesion classification while maintaining a small model size suitable for mobile deployment.
