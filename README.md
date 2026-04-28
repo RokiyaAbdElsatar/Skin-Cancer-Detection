@@ -14,7 +14,7 @@ The key focus is on:
 
 ## Dataset Description
 
-We are using the **Skin Cancer HAM10000 Dataset** (or similar skin lesion dataset).
+We are using the **Skin Cancer Dataset** (or similar skin lesion dataset).
 
 ### Target Variable
 
@@ -91,7 +91,6 @@ Final Project/
 │   ├── train.py          # CNN training script
 │   ├── predict.py      # Prediction script
 │   ├── convert_tflite.py # TFLite conversion
-│   └── convert_onnx.py  # ONNX conversion
 │
 ├── gui/                   # GUI application
 │   └── app.py          # Mobile Skin Analyzer GUI
