@@ -132,8 +132,6 @@ Final Project/
 ### 3. Model Conversion
 
 * Convert to TFLite: `python src/convert_tflite.py`
-* Convert to ONNX (optional): `python src/convert_onnx.py`
-
 ---
 
 ### 4. Prediction
