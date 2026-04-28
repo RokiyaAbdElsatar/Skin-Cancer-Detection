@@ -1,5 +1,9 @@
 # Mobile Skin Analyzer - Lightweight CNN for Skin Cancer Detection
 
+<img width="747" height="1044" alt="Screenshot 2026-04-28 191003" src="https://github.com/user-attachments/assets/c8f14f11-a676-4599-9068-2def17f544ee" />
+
+<img width="748" height="1034" alt="Screenshot 2026-04-28 190447" src="https://github.com/user-attachments/assets/a1bdf8d2-0858-4044-9339-95d80000ca64" />
+
 ## Project Overview
 
 This project aims to build a **lightweight CNN model** for on-device/mobile skin cancer detection. The goal is to achieve real-time skin lesion classification while maintaining a small model size suitable for mobile deployment.
@@ -14,7 +18,7 @@ The key focus is on:
 
 ## Dataset Description
 
-We are using the **Skin Cancer HAM10000 Dataset** (or similar skin lesion dataset).
+We are using the **Skin Cancer Dataset** (or similar skin lesion dataset).
 
 ### Target Variable
 
@@ -91,7 +95,6 @@ Final Project/
 │   ├── train.py          # CNN training script
 │   ├── predict.py      # Prediction script
 │   ├── convert_tflite.py # TFLite conversion
-│   └── convert_onnx.py  # ONNX conversion
 │
 ├── gui/                   # GUI application
 │   └── app.py          # Mobile Skin Analyzer GUI
