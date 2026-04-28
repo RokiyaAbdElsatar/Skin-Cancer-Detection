@@ -9,7 +9,6 @@ import threading
 
 IMG_SIZE = 128
 
-
 class ModernSkinAnalyzer:
     def __init__(self):
         self.root = tk.Tk()
