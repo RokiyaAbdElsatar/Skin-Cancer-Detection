@@ -6,6 +6,7 @@
 <img width="45%" alt="BENIGN Output" src="https://github.com/user-attachments/assets/a1bdf8d2-0858-4044-9339-95d80000ca64" />
 
 </div>
+
 ## Project Overview
 
 This project aims to build a **lightweight CNN model** for on-device/mobile skin cancer detection. The goal is to achieve real-time skin lesion classification while maintaining a small model size suitable for mobile deployment.
